@@ -1,0 +1,16 @@
+名称,含义
+beta,beta分布
+f,F分布
+gamma,gam分布
+poisson,泊松分布
+hypergeom,超几何分布
+lognorm,对数正态分布
+binom,二项分布
+uniform,均匀分布
+chi2,卡方分布
+cauchy,柯西分布
+laplace,拉普拉斯分布
+rayleigh,瑞利分布
+t,T分布
+norm,正态分布
+expon,指数分布
